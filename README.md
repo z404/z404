@@ -2,6 +2,8 @@
 
 Anish Here :) 
 Honoured that you're looking at this xD
+
+[![Anish's github stats](https://github-readme-stats.vercel.app/api?username=z404)](https://github.com/z404/github-readme-stats)
 <!--
 **z404/z404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
