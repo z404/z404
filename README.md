@@ -9,7 +9,6 @@ Technical Member at
  - DSC VIT
  - CSI VIT
  - TAG Club VIT
- - MSTC VIT
 <!--
 **z404/z404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
