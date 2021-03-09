@@ -3,7 +3,7 @@
 Anish Here :) 
 Honoured that you're looking at this xD
 
-[![Anish's github stats](https://github-readme-stats.vercel.app/api?username=z404&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anish's github stats](https://github-readme-stats.vercel.app/api?username=z404&theme=radical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Technical Member at
  - DSC VIT
