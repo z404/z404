@@ -4,7 +4,7 @@ Anish Here :)
 Honoured that you're looking at this xD
 
 [![Anish's github stats](https://github-readme-stats.vercel.app/api?username=z404&theme=radical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z404&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z404&theme=radical&layout=compact)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
 
 Technical Member at
  - DSC VIT
