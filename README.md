@@ -3,8 +3,8 @@
 Anish Here :) 
 Honoured that you're looking at this xD
 
-[![Anish's github stats](https://github-readme-stats.vercel.app/api?username=z404&theme=radical&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z404&theme=radical&layout=compact&langs_count=10&hide=C%23)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
+[![Anish's github stats](https://github-readme-stats.vercel.app/api?username=z404&theme=radical&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z404&theme=radical&layout=compact&exclude_repo=MyFirstUnityTrial)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
 
 Technical Member at
  - DSC VIT
