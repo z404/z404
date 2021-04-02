@@ -20,6 +20,17 @@ Technical Member at
  - CSI VIT
  - TAG Club VIT
 
+### Find Me
+
+[![image](https://img.shields.io/badge/Discord-Wilford%20Warfstache%230256-blue?style=for-the-badge)](https://discord.com/)
+[![image](https://img.shields.io/badge/GMail-anishr890%40gmail.com-orange?style=for-the-badge)](https://www.gmail.com)
+[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=918762802114)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-raghavendra-2b4941170/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__anish.r__/)
+[![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ns60r0mjuzvx4abbw89x6tqjj?si=nkZsZJlsT5SAiPZ7Is23gQ)
+[![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Anish404/)
+
+
 ### Certificates:
  - [Specialization in Applied Data Science in Python, Michigan University](https://coursera.org/share/3903cb523f035fe87a250d69e29d6a12) September 29th 2020
  - [Course on Applied Social Network Analysis in Python, Michigan University](https://coursera.org/share/be85bdcc8e8cdc114f3024ebb77c22aa) September 29th 2020
