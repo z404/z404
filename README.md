@@ -5,6 +5,13 @@ Honoured that you're looking at this xD
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anish404)
 
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+
 [![Anish's github stats](https://github-readme-stats.vercel.app/api?username=z404&theme=radical&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z404&theme=radical&layout=compact&exclude_repo=MyFirstUnityTrial)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
 
