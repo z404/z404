@@ -13,8 +13,6 @@ Honoured that you're looking at this xD
 [![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/)
 
 [![Anish's github stats](https://github-readme-stats.vercel.app/api?username=z404&theme=radical&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z404&theme=radical&layout=compact&exclude_repo=MyFirstUnityTrial)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
