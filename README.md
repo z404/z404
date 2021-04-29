@@ -19,8 +19,8 @@ Honoured that you're looking at this xD
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z404&theme=highcontrast)](https://www.youtube.com/watch?v=PzQihlLABng)
 
 Technical Member at
- - DSC VIT
- - CSI VIT
+ - [DSC VIT](https://dscvit.com/)
+ - [CSI VIT](https://csivit.com/)
  - TAG Club VIT
 
 ### Find Me
