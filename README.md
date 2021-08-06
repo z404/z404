@@ -49,3 +49,4 @@ Technical Member at
  - [Specialization in Applied Data Science in Python, Michigan University](https://coursera.org/share/3903cb523f035fe87a250d69e29d6a12) September 29th 2020
  - [Course on Python Core, Sololearn](https://www.sololearn.com/certificates/course/en/14990395/1073/landscape/png) Jan 28th 2021
  - [Course on HTML, CSS, and Javascript for Web Developers, Johns Hopkins University](https://coursera.org/share/c6908d74e3978ccdcd54fbdbade26c3d) April 23rd 2021
+ - [Course on Javascript, Sololearn](https://www.sololearn.com/certificates/course/en/14990395/1024/landscape/png) August 8th 2021
