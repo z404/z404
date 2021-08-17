@@ -50,3 +50,4 @@ Technical Member at
  - [Course on Python Core, Sololearn](https://www.sololearn.com/certificates/course/en/14990395/1073/landscape/png) Jan 28th 2021
  - [Course on HTML, CSS, and Javascript for Web Developers, Johns Hopkins University](https://coursera.org/share/c6908d74e3978ccdcd54fbdbade26c3d) April 23rd 2021
  - [Course on Javascript, Sololearn](https://www.sololearn.com/certificates/course/en/14990395/1024/landscape/png) August 8th 2021
+ - [Course on React + Redux, Sololearn](https://www.sololearn.com/Certificate/1097-14990395/jpg) August 17th, 2021
