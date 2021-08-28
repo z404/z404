@@ -15,7 +15,6 @@ Honoured that you're looking at this xD
 [![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![image](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E/)](https://www.javascript.com/)
 [![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![image](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/en/stable/)
 
 
 [![Anish's github stats](https://github-readme-stats.vercel.app/api?username=z404&theme=radical&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
