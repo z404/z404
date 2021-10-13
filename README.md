@@ -24,7 +24,6 @@ Honoured that you're looking at this xD
 
 Technical Member at
  - [DSC VIT](https://dscvit.com/)
- - [CSI VIT](https://csivit.com/)
  - [TAG Club VIT](http://www.tagclub.in/)
 
 ### Find Me
