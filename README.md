@@ -50,3 +50,4 @@ Technical Member at
  - [Course on HTML, CSS, and Javascript for Web Developers, Johns Hopkins University](https://coursera.org/share/c6908d74e3978ccdcd54fbdbade26c3d) April 23rd 2021
  - [Course on Javascript, Sololearn](https://www.sololearn.com/certificates/course/en/14990395/1024/landscape/png) August 8th 2021
  - [Course on React + Redux, Sololearn](https://www.sololearn.com/Certificate/1097-14990395/jpg) August 17th, 2021
+ - [Course on Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/0d4b244cbf34c88e42e34a90978ac526) November 9th 2021
