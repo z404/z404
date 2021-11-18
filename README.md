@@ -46,8 +46,5 @@ Technical Member at
  - [Course on Applied Text Mining in Python, Michigan University](https://coursera.org/share/c6304a8257e460aad8f6180ed55ee359) July 31st 2020
  - [Course on Applied Social Network Analysis in Python, Michigan University](https://coursera.org/share/be85bdcc8e8cdc114f3024ebb77c22aa) September 29th 2020
  - [Specialization in Applied Data Science in Python, Michigan University](https://coursera.org/share/3903cb523f035fe87a250d69e29d6a12) September 29th 2020
- - [Course on Python Core, Sololearn](https://www.sololearn.com/certificates/course/en/14990395/1073/landscape/png) Jan 28th 2021
  - [Course on HTML, CSS, and Javascript for Web Developers, Johns Hopkins University](https://coursera.org/share/c6908d74e3978ccdcd54fbdbade26c3d) April 23rd 2021
- - [Course on Javascript, Sololearn](https://www.sololearn.com/certificates/course/en/14990395/1024/landscape/png) August 8th 2021
- - [Course on React + Redux, Sololearn](https://www.sololearn.com/Certificate/1097-14990395/jpg) August 17th, 2021
  - [Course on Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/0d4b244cbf34c88e42e34a90978ac526) November 9th 2021
