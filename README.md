@@ -3,9 +3,6 @@
 Anish Here :) <br>
 Honoured that you're looking at this xD
 
-Happy new year!
-(Completed a contribution streak of 365 days!)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anish404)
 
 [![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
