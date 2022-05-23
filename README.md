@@ -53,3 +53,4 @@ Technical Member at
  - [Specialization in Applied Data Science in Python, Michigan University](https://coursera.org/share/3903cb523f035fe87a250d69e29d6a12) September 29th 2020
  - [Course on HTML, CSS, and Javascript for Web Developers, Johns Hopkins University](https://coursera.org/share/c6908d74e3978ccdcd54fbdbade26c3d) April 23rd 2021
  - [Course on Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/0d4b244cbf34c88e42e34a90978ac526) November 9th 2021
+ - [Course on Convolutional Neural Networks in TensorFlow, DeepLearning.AI](https://coursera.org/share/83df910c9c32b8041b9c29e12d2e38f8) May 7th 2022
