@@ -54,3 +54,4 @@ Technical Member at
  - [Course on HTML, CSS, and Javascript for Web Developers, Johns Hopkins University](https://coursera.org/share/c6908d74e3978ccdcd54fbdbade26c3d) April 23rd 2021
  - [Course on Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/0d4b244cbf34c88e42e34a90978ac526) November 9th 2021
  - [Course on Convolutional Neural Networks in TensorFlow, DeepLearning.AI](https://coursera.org/share/83df910c9c32b8041b9c29e12d2e38f8) May 7th 2022
+ - [Course on Natural Language Processing in TensorFlow, DeepLearning.AI](https://coursera.org/share/da66b59e6b01c1da2b3dbdfaf27e1564) July 23rd 2022
