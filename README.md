@@ -28,6 +28,7 @@ Honoured that you're looking at this xD
 <!-- [![Metrics](https://metrics.lecoq.io/z404?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)](https://www.youtube.com/watch?v=PzQihlLABng) -->
 
 Technical Member at
+ - [ACM VIT](https://acmvit.in/)
  - [DSC VIT](https://dscvit.com/)
  - [TAG Club VIT](http://www.tagclub.in/)
 
