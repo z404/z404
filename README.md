@@ -25,17 +25,11 @@ Honoured that you're looking at this xD
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z404&theme=highcontrast)](https://www.youtube.com/watch?v=PzQihlLABng)
 <!-- [![Metrics](https://metrics.lecoq.io/z404?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)](https://www.youtube.com/watch?v=PzQihlLABng) -->
 
-Technical Member at
- - [ACM VIT](https://acmvit.in/)
- - [DSC VIT](https://dscvit.com/)
- - [TAG Club VIT](http://www.tagclub.in/)
-
 ### Find Me
 
 [![image](https://img.shields.io/badge/Discord-Wilford%20Warfstache%230256-blue?style=for-the-badge)](https://discord.com/)
 [![image](https://img.shields.io/badge/GMail-anishr890%40gmail.com-orange?style=for-the-badge)](mailto:anishr890@gmail.com)
 
-[![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=918762802114)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-raghavendra-2b4941170/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__anish.r__/)
 [![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ns60r0mjuzvx4abbw89x6tqjj?si=nkZsZJlsT5SAiPZ7Is23gQ)
