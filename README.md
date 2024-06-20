@@ -3,8 +3,6 @@
 Anish Here :) <br>
 Honoured that you're looking at this xD
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anish404)
-
 [![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/microsoft/vscode)
 [![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
